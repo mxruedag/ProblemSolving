@@ -1,6 +1,6 @@
 # ProblemSolving
 
-This is a compilation of code that I have written to solve problems in coding challenges that I do just for fun.
+This is a compilation of code that I have written to solve problems in coding challenges that I do just for fun. The programs are not always the most efficient, but I do try to make the code clean.
 
 ## Directory Structure
 
